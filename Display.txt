@@ -1,0 +1,20 @@
+
+**Diplay Inline**
++ Mesma Linha
+- Não aceita o width e height
+. Se comporta como uma palavra (devido a isso aceita as propriedades para texto como: alinhamento)
+. O que define o tamanho da caixa é o conteúdo.
+
+**Diplay Block**
+- Ocupa a linha toda
++ Aceita width e heigth
+. não tem o comportamento de palavra
+. width 100% do pai
+. heigth é o conteúdo 
+
+**Diplay Inline-block**
+
++Mesma Linha
++Aceita width e heigth
+.comportamento de palavra
+.Tamanho do conteúdo
